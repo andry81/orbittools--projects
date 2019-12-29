@@ -1,0 +1,24 @@
+[submodule "orbittools"]
+	path = orbittools
+	owner = /
+	url = /p/orbittools/orbittools/trunk
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
+[submodule "qd"]
+	path = qd
+	owner = /
+	url = /p/orbittools/qd_
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
+[submodule "sgp4"]
+	path = sgp4
+	owner = /
+	url = /p/orbittools/sgp4
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
