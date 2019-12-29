@@ -9,7 +9,7 @@
 [submodule "qd"]
 	path = qd
 	owner = /
-	url = /p/orbittools/qd_
+	url = /p/orbittools/qd_/trunk
 	branch = /
 	fetch = :refs/remotes/git-svn
 	remote = svn
@@ -17,7 +17,7 @@
 [submodule "sgp4"]
 	path = sgp4
 	owner = /
-	url = /p/orbittools/sgp4
+	url = /p/orbittools/sgp4/trunk
 	branch = /
 	fetch = :refs/remotes/git-svn
 	remote = svn
