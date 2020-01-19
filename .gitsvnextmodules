@@ -6,6 +6,14 @@
 	fetch = :refs/remotes/git-svn
 	remote = svn
 	type = dir
+[submodule "orbittools-p1"]
+	path = orbittools-p1
+	owner = /
+	url = /p/orbittools/orbittools-p1/trunk
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
 [submodule "qd"]
 	path = qd
 	owner = /
@@ -18,6 +26,14 @@
 	path = sgp4
 	owner = /
 	url = /p/orbittools/sgp4/trunk
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
+[submodule "sgp4-p1"]
+	path = sgp4-p1
+	owner = /
+	url = /p/orbittools/sgp4-p1/trunk
 	branch = /
 	fetch = :refs/remotes/git-svn
 	remote = svn
